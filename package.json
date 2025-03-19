@@ -1,0 +1,19 @@
+{
+  "name": "nodews",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "author": "eooce",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "latest",
+    "axios": "latest"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
